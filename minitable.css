@@ -1,0 +1,14 @@
+#omt * {font-family: Arial, Helvetica, sans-serif;font-style:normal;color:#000;padding:0;margin:0;border:none;letter-spacing:normal;line-height:normal;text-transform:none;float:none;}
+#omt {  font-size: 10px; }
+#omt .s1 { background-color: #d4e1dc; }
+#omt .s2 { background-color: #ebf1ef; }
+#omt .l {text-align:left;}
+#omt .big {font-size:13px;padding-left:2px;}
+#omt .hd {background:#eef0f0;}
+#omt a { color: #000; text-decoration:none; }
+#omt a:hover, #omt a:active {text-decoration:underline;}
+#omt table { margin: 0px; padding: 0px;width:160px;border:1px solid #000;background:#fff;}
+#omt td { text-align: center;margin:0;font-weight:bold;padding:2px 2px 2px 0;}
+#omt .n, #omt .n td {font-weight:normal;}
+#omt .oh {overflow:hidden;width:74px;height:1.3em;padding-left:2px;}
+#omt .nu, #omt .nu:hover, #omt .nu:active {display:block;text-decoration:none;outline:0;}
